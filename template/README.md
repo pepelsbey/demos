@@ -1,4 +1,6 @@
 # TODO
 
-- [Resulted demo](TODO)
-- [Video on YouTube](TODO)
+[![TODO](cover.webp)](TODO)
+
+- [Live demo](TODO)
+- [Source code](TODO)
